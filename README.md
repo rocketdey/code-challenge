@@ -1,28 +1,55 @@
-# Extract Van Gogh Paintings Code Challenge
+# Carousel & Grid Extraction Challenge
 
-Goal is to extract a list of Van Gogh paintings from the attached Google search results page.
+This solution can extract data from Carousel, Grid, List, Table and Horizontal Gallery layouts.
 
-![Van Gogh paintings](https://github.com/serpapi/code-challenge/blob/master/files/van-gogh-paintings.png?raw=true "Van Gogh paintings")
+## Installation
 
-## Instructions
+```bash
+bundle install
+```
 
-This is already fully supported on SerpApi. ([relevant test], [html file], [sample json], and [expected array].)
-Try to come up with your own solution and your own test.
-Extract the painting `name`, `extensions` array (date), and Google `link` in an array.
+## Running
 
-Fork this repository and make a PR when ready.
+To scrape `van-gogh-paintings.html` only, you can run the code without any arguments:
+```bash
+ruby bin/run.rb
+```
 
-Programming language wise, Ruby (with RSpec tests) is strongly suggested but feel free to use whatever you feel like.
+To scrape all the html's inside files directory, you can run the code with `all` argument:
+```bash
+ruby bin/run.rb all
+```
 
-Parse directly the HTML result page ([html file]) in this repository. No extra HTTP requests should be needed for anything.
+To scrape individual html's, you can pass the html path:
+```bash
+ruby bin/run.rb ./files/michelangelo.html
+```
 
-[relevant test]: https://github.com/serpapi/test-knowledge-graph-desktop/blob/master/spec/knowledge_graph_claude_monet_paintings_spec.rb
-[sample json]: https://raw.githubusercontent.com/serpapi/code-challenge/master/files/van-gogh-paintings.json
-[html file]: https://raw.githubusercontent.com/serpapi/code-challenge/master/files/van-gogh-paintings.html
-[expected array]: https://raw.githubusercontent.com/serpapi/code-challenge/master/files/expected-array.json
+To run the rspec tests:
+```bash
+rspec spec/parser-spec.rb
+```
 
-Add also to your array the painting thumbnails present in the result page file (not the ones where extra requests are needed). 
+## Layout types
 
-Test against 2 other similar result pages to make sure it works against different layouts. (Pages that contain the same kind of carrousel. Don't necessarily have to be paintings.)
+This code has been tested with 5 different layouts.
 
-The suggested time for this challenge is 4 hours. But, you can take your time and work more on it if you want.
+### Carousel
+
+![Sandro Botticelli Artwork](https://github.com/rocketdey/code-challenge/blob/master/files/carousel.png "Sandro Botticelli Artwork")
+
+### Grid
+
+![Metallica Albums](https://github.com/rocketdey/code-challenge/blob/master/files/grid.png "Metallica Albums")
+
+### Table
+
+![The Off Season Songs](https://github.com/rocketdey/code-challenge/blob/master/files/table.png "The Off Season Songs")
+
+### Horizontal Gallery
+
+![Michelangelo](https://github.com/rocketdey/code-challenge/blob/master/files/horizontal-gallery.png "Michelangelo")
+
+### List
+
+![Hemlocke Springs Albums](https://github.com/rocketdey/code-challenge/blob/master/files/horizontal-gallery.png "Hemlocke Springs Albums")
