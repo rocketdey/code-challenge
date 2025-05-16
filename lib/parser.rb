@@ -97,7 +97,7 @@ class Parser
           end
           elem_dict[:image] = base64
         else
-          elem_dict[:image] = elem_img['data-src']
+          elem_dict[:image] = elem_img['data-src'].include?('www.gstatic.com/knowledgecard/') ? '' : elem_img['data-src']
         end
       end
 
