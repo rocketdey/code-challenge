@@ -1,4 +1,4 @@
-# Carousel & Grid Extraction Challenge
+# Extraction of Various Gallery Layouts Challenge
 
 This solution can extract data from Carousel, Grid, List, Table and Horizontal Gallery layouts.
 
@@ -22,7 +22,7 @@ ruby bin/run.rb all
 
 To scrape individual html's, you can pass the html path:
 ```bash
-ruby bin/run.rb ./files/michelangelo.html
+ruby bin/run.rb ./html/michelangelo.html
 ```
 
 To run the rspec tests:
@@ -30,6 +30,7 @@ To run the rspec tests:
 rspec spec/parser-spec.rb
 ```
 
+The result JSON's can be found in output directory.
 ## Layout types
 
 This code has been tested with 5 different layouts.
@@ -52,4 +53,4 @@ This code has been tested with 5 different layouts.
 
 ### List
 
-![Hemlocke Springs Albums](https://github.com/rocketdey/code-challenge/blob/master/files/horizontal-gallery.png "Hemlocke Springs Albums")
+![Hemlocke Springs Albums](https://github.com/rocketdey/code-challenge/blob/master/files/list.png "Hemlocke Springs Albums")
