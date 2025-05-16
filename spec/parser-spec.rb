@@ -69,7 +69,7 @@ RSpec.describe Parser do
         @expected_array = f.read()
       end
 
-      File.open('./files/van-gogh-paintings.json', 'r') do |f|
+      File.open('./output/van-gogh-paintings.json', 'r') do |f|
         @parsed_array = f.read()
       end
 
@@ -107,7 +107,7 @@ RSpec.describe Parser do
   context 'sandro-botticelli-artwork' do
 
     before do
-      @main_dict = parser.extract_data('./files/sandro-botticelli-artwork.html')
+      @main_dict = parser.extract_data('./html/sandro-botticelli-artwork.html')
       @entities = @main_dict[:artworks]
     end
 
@@ -149,10 +149,11 @@ RSpec.describe Parser do
 
 
   # Grid Form
+  # Has some items with placeholder images
   context 'metallica-albums' do
 
     before do
-      @main_dict = parser.extract_data('./files/metallica-albums.html')
+      @main_dict = parser.extract_data('./html/metallica-albums.html')
       @entities = @main_dict[:albums]
     end
 
@@ -190,6 +191,14 @@ RSpec.describe Parser do
       validate_link(@entities, index, "https://www.google.com/search?sca_esv=6ff89c181547cd34&cs=1&biw=1440&bih=827&q=Metallica+Metallica+Live+in+concert&stick=H4sIAAAAAAAAAONgFuLQz9U3MClKLlLiArHKM0qKk9O0xLOTrfRzS4szk_UTi0oyi0usEnOSSnOLF7Eq-6aWJObkZCYnKiBYPpllqQqZeQrJ-XnJqUUlAJbuz25XAAAA&sa=X&ved=2ahUKEwiY_dHE8ICNAxUoRfEDHbGlMhgQ9OUBegQIOxAl")
       validate_image_link(@entities, index, "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRAqNzhKa1t_a1TpPFGHxfghdr42QiqtCCxGKVU8VKVXd6LXjLV1arIA-4&s=10")
     end
+
+    it "validates an album that has placeholder instead of base64 or link" do
+      index = 12
+      validate_name(@entities, index, "Live Shit: Binge & Purge")
+      validate_extension(@entities, index, ["1993"])
+      validate_link(@entities, index, "https://www.google.com/search?sca_esv=6ff89c181547cd34&cs=1&biw=1440&bih=827&q=Metallica+Live+Shit:+Binge+and+Purge&stick=H4sIAAAAAAAAAONgFuLQz9U3MClKLlLiArGS0kwz8iy0xLOTrfRzS4szk_UTi0oyi0usEnOSSnOLF7Gq-KaWJObkZCYnKvhklqUqBGdkllgpOGXmpacqJOalKASUFqWnAgDUW_s3WAAAAA&sa=X&ved=2ahUKEwiY_dHE8ICNAxUoRfEDHbGlMhgQ9OUBegQIOxAb")
+      expect(@entities[index].keys).to include(:name, :extensions, :link)
+    end
   end
 
 
@@ -198,7 +207,7 @@ RSpec.describe Parser do
   context 'michelangelo' do
 
     before do
-      @main_dict = parser.extract_data('./files/michelangelo.html')
+      @main_dict = parser.extract_data('./html/michelangelo.html')
       @artworks = @main_dict[:artworks]
       @structures = @main_dict[:structures]
     end
@@ -235,7 +244,7 @@ RSpec.describe Parser do
   context "the-off-season-songs" do
 
     before do
-      @main_dict = parser.extract_data('./files/the-off-season-songs.html')
+      @main_dict = parser.extract_data('./html/the-off-season-songs.html')
       @entities = @main_dict[:entities]
     end
 
@@ -271,7 +280,7 @@ RSpec.describe Parser do
   context 'metallica-songs' do
 
     before do
-      @main_dict = parser.extract_data('./files/metallica-songs.html')
+      @main_dict = parser.extract_data('./html/metallica-songs.html')
       @entities = @main_dict[:entities]
     end
 
@@ -306,7 +315,7 @@ RSpec.describe Parser do
   context 'hemlocke-springs-albums' do
 
     before do
-      @main_dict = parser.extract_data('./files/hemlocke-springs-albums.html')
+      @main_dict = parser.extract_data('./html/hemlocke-springs-albums.html')
       @albums = @main_dict[:albums]
     end
 
