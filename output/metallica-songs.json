@@ -1,0 +1,282 @@
+{
+  "entities": [
+    {
+      "name": "Nothing Else Matters",
+      "extensions": [
+        "Metallica",
+        "1991"
+      ],
+      "link": "https://www.google.com/search?sca_esv=b02fb6a0238aa473&q=metallica+nothing+else+matters&stick=H4sIAAAAAAAAAONgFuLQz9U3MClKLlLi0U_XNyw2MC3LzjMy0BL0LS3OTHYsKsksLgnJD87PS1_EKpebWpKYk5OZnKiQl1-SkZmXrpCaU5yqkJtYUpJaVAwA9AvhcE4AAAA&sa=X&ved=2ahUKEwjMtYjGnoONAxVcBNsEHcxFHqwQri56BAgmEAI",
+      "image": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkGBwgHBgkIBwgKCgkLDRYPDQwMDRsUFRAWIB0iIiAdHx8kKDQsJCYxJx8fLT0tMTU3Ojo6Iys/RD84QzQ5OjcBCgoKDQwNGg8PGjclHyU3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3N//AABEIAEUAXAMBIgACEQEDEQH/xAAbAAACAwEBAQAAAAAAAAAAAAAABQIDBAYBB//EADYQAAIBAwIDBQUHBAMAAAAAAAECAwAEERIhBTFBEyJRYXEGFDKBkSNCscHR4fEVQ4LwRFJi/8QAFwEBAQEBAAAAAAAAAAAAAAAAAQACA//EAB4RAQEAAgICAwAAAAAAAAAAAAABAhEhMRJBA2Fx/9oADAMBAAIRAxEAPwD4bRW8AeAr3AzyFR0X0VuBVuS1KeJQwCkHbfA5etQL6K1KhYMQpIXmQOVXCBplaSKPCIO8SRzp0i+imFugBDMo54UHqaeR2MXuyXE6hl050KRk75A8vM0GRydFMp9L3Gvujf4QNhU+F2nvN2iFCwPwqCAXPgCadAqopqbZP6j2ClSurBIHKqlgkmGpIiw5ZAq0h+FeqfvHp0qsv4A16rOMsNjjH1oOzDhNmbq5Dae4Nz4ZpneWU0LK3ZRm3ZwnPflnl+tT9nkmRezGknGcev8AFHHb0RxLFGmJDIGKknJ2I2/3rTNG9KE4faxI0tylwbaQDCQjHab9fADxpbdFYZ8QKGjwdC6sjBO3zrrbyRIxAxlkhRVGAqg7+Bzz9K5/iF1dS4drIRyEAMXh2/x2GByok21nrEmAZZ9Oe8vTwxTOG6SGIIwKuc57uSTU5eIXSIts8cSvJ3SUG7eRwalY+7wGS5urSeaaJydS3CKoOMjukZ6+NTP4WrD9sCR1B+Ietahb+43XaPdrrjJGpDkjbp++KvkuWmnlMVhbxOBhipz9MbVlvbm5uR29w0YYgKFRAqgeg9aZZGbjdKBJbKkrIrmTOVZzn125VlZ9RyRn5VoWMnBd0Ckbb/jUxDEf7i/Wq2LVWiEeGKtW3jRlaQtnGQo/OrFibSTgnHMgcqrZgoJJPzrOEtdfkymPDXaXD28yOrgIGyVI2NaOKcQjkjiuEC6gcY07gn+KRPPqbC1GR+0YLnHnWri5450zvJ5rtUWcsqjcjG58KwwySxXSAvLpx8LE/hTe1F4y5ilUAjbKA1G4hdLpXkdZ7jGyINvnvWJt0ym2aPiPfeCV2ijxgnW+k+ozWp49MMqaCxY5GRjIxVvELA3BjWFYYxjMkhBLMetQisILWVpXd5mxspUH96tnxsZljdJTojUFhvpHSrF4eGb7WMFOhBH6Vul4pbGPQR2bBcqCOZ8KpjvfeJCuMDqccjT0NTpik4dbpIqoGAJOoHevfcR9x1C+S5/OtkugMusk4B3o7RDzIrPkfGOqtooOGWWkAZx3ieprgOPzWxumFmQFO7KOSnwppJ7aRt/xpCPMilt3xjhV4+u44fJq/wCyPg1ucDO45QqQYGSathaIzoJfg61a1zwknaG8UeAdT+VXzcU4WkISw4dpf7zz98n0OdqbXOTTespjjCxgd74Qc1fagQ5IYlzzYAUhh4toJ7SMvnrnfFXf1mEco5PqK52X07Y5Y90/Mmo/E31q6CEFsqOfPzrnRxyIf2ZPqK0we00MfO3kI8mFWOPPJuc9Hd1aRuCrhSCORFYdAjjkQNpJJOccqyTe08D8reUerCss3HYZAfsJN/8A0K1fpjyiy44gihQuS4ODv0qS3yFRmJvqKwjiVqTk27ZJ8jTCP2isYF0RcODjnqlwSatbEuvbmKKKKXMUUUVIUUUVIUUUVIUUUVIUUUVJ/9k="
+    },
+    {
+      "name": "Enter Sandman",
+      "extensions": [
+        "Metallica",
+        "1991"
+      ],
+      "link": "https://www.google.com/search?sca_esv=b02fb6a0238aa473&q=metallica+enter+sandman&stick=H4sIAAAAAAAAAONgFuLQz9U3MClKLlLi1U_XNzRMSas0SM81KtYS9C0tzkx2LCrJLC4JyQ_Oz0tfxCqem1qSmJOTmZyokJpXklqkUJyYl5KbmAcA_TAmVkgAAAA&sa=X&ved=2ahUKEwjMtYjGnoONAxVcBNsEHcxFHqwQri56BAgmEAY",
+      "image": "data:image/jpeg;base64,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"
+    },
+    {
+      "name": "The Ecstasy of Gold",
+      "extensions": [
+        "We All Love Ennio Morricone",
+        "2007"
+      ],
+      "link": "https://www.google.com/search?sca_esv=b02fb6a0238aa473&q=metallica+the+ecstasy+of+gold&stick=H4sIAAAAAAAAAONgFuLQz9U3MClKLlLi0U_XNyw2MC3OK6hK1hL0LS3OTHYsKsksLgnJD87PS1_EKpubWpKYk5OZnKhQkpGqkJpcXJJYXKmQn6aQnp-TAgCLz8ClTQAAAA&sa=X&ved=2ahUKEwjMtYjGnoONAxVcBNsEHcxFHqwQri56BAgmEAo",
+      "image": "data:image/jpeg;base64,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"
+    },
+    {
+      "name": "Master Of Puppets",
+      "extensions": [
+        "Master of Puppets",
+        "1986"
+      ],
+      "link": "https://www.google.com/search?sca_esv=b02fb6a0238aa473&q=metallica+master+of+puppets&stick=H4sIAAAAAAAAAONgFuLQz9U3MClKLlLi0U_XNyw2MC0pMswo0xL0LS3OTHYsKsksLgnJD87PS1_EKp2bWpKYk5OZnKiQm1hcklqkkJ-mUFBaUJBaUgwAemqJsUsAAAA&sa=X&ved=2ahUKEwjMtYjGnoONAxVcBNsEHcxFHqwQri56BAgmEA4",
+      "image": "data:image/jpeg;base64,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"
+    },
+    {
+      "name": "For Whom The Bell Tolls",
+      "extensions": [
+        "Ride the Lightning",
+        "1984"
+      ],
+      "link": "https://www.google.com/search?sca_esv=b02fb6a0238aa473&q=metallica+for+whom+the+bell+tolls&stick=H4sIAAAAAAAAAONgFuLQz9U3MClKLlLi1U_XNzRMSauIL8yqKtAS9C0tzkx2LCrJLC4JyQ_Oz0tfxKqYm1qSmJOTmZyokJZfpFCekZ-rUJKRqpCUmpOjUJKfk1MMAMdPMydSAAAA&sa=X&ved=2ahUKEwjMtYjGnoONAxVcBNsEHcxFHqwQri56BAgmEBI",
+      "image": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkGBwgHBgkIBwgKCgkLDRYPDQwMDRsUFRAWIB0iIiAdHx8kKDQsJCYxJx8fLT0tMTU3Ojo6Iys/RD84QzQ5OjcBCgoKDQwNGg8PGjclHyU3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3N//AABEIAEUAXAMBIgACEQEDEQH/xAAbAAEAAgMBAQAAAAAAAAAAAAAABQYDBAcCAf/EADQQAAEDAgQCCAUDBQAAAAAAAAEAAgMEEQUSITETkQYVQVFSU2GBFCJxobEywfAHQmLC0f/EABkBAAMBAQEAAAAAAAAAAAAAAAACBAMBBf/EACIRAAICAgIBBQEAAAAAAAAAAAABAhEDURMhFAQSMTJBYf/aAAwDAQACEQMRAD8A4aitXDZ4G8k4bPA3kqPHeyXyVoqqK64fTxvlN449B/cNAp7B8IdjVe2ipWQglpc5/D2aNzsnj6VtXZqstq6OWr4u7T9D8GZBJAJodGte2qjLZC7e92g2A9yVgi/p3QTyFjcRiDg7Kc0TR/t6FK/TqrUg5do4gvq7pH/TnC4ZGOqMTgEeY3JiaBYEdpd2rDivQDDsTpJqnDgInxhzsgB1aBmB1AO3odbjRc4OvsHL/DiCKZr6T4WpMZAIB0NtwpHhs8DeSSOJttaCeVQoqqK1cNngbyThs8DeSfx3sz8laPaIiqIzbwqgmxGsZDDr3i9h9SewDVda6K0NLS0JgoJYTG5p+MqZ22ZNp+hp3y77C312XK8ErH0cspY1r2yNDZGPGjm72/Gym5sSmrslLE0wUul44zckd5Pb+FrHEpRdFEOTql0WatxnCqNxpGwurhHG8Ndmy3jJ+Ud1wLkW0tZRr+lNDxXSNwkAm2hkuLAk93qq6+YMkMhaeJpYDQDuA+iwzSCZpfHHkLbZmgafX+d60cYR+R44r+bLnRdMqKItccJA4RzZmyak307O+x9lK4HJT4nCZMMxKSjqWtMh49ncQk6n2Lbbbdi5vAXOhkBIsCHbe37/AGWSlqJAB8NLkla7NG4Gx9bHv0HIpJQi110O8TX1ZM9NujsFcJKujdGJmDNURtFuGfEACflPpcfe1KVtl6QSENcYY31kYLW1O177m2x9/cKojZJOKTtEs/f8SVH1ERIZhERAGekBMlwduy26lqR0jZowH5MzgLjQ66KEjc4O+S1/U2UhSzSRXcY49tDvZPjmk2i/Erxo3KhwDC17HcUE3IAFj3eq2MKY5uE1r2sbJMWgXfYm2ZpNrrSrqsPmeOG64cdQvNDPJHMbSSxxyWEgZoXNB1H5t6rVyi30cmm4GvJCHtbdzxc5iA4jf+fdY4qVkc7JGggNN731UjU07GSngSCRm9xvyWvI4DRtiO9LLBB9s0hJSSaPBibC5zbkuaSDrfZRql5X6RPeAS9vzexI/ZRKR1Son9T+BERIShFGdcxeU/mE65i8p/MLPmhs14Z6N2eMSWuvcUNQI7QyOa36qP64i8p/MIMaYNo5OYWEpx91lmJOMKZZqfCcQqKYupKWaVsZsZQ1zrjc3Pp9gfRe48NxGNjH/CTZJCMrg1xDri4t36Kv0PSqqpHPbG6VsTmuBY2SwJINj7Gx9l8j6U1TGtbnnaG/pDZSANLJoZYxH7LFJgWJSkkUdaD/AIMcouqpJ6J72SSyxvG7Xg3C1x0uqLlxkqy4ixPGP/Vgn6RNqHl9RHLI47uc+5PuU08kJd/oG0+rnfTxvErpSHFhAb2CxH5K9KGlr6Z4twZBre1xus3XMXlP5hLjyJXbMM8JSqiTRRnXMXlP5hOuYvKfzC15obJ+GeiFREUJ6AREQAREQAREQAREQAREQB//2Q=="
+    },
+    {
+      "name": "One",
+      "extensions": [
+        "...And Justice for All",
+        "1988"
+      ],
+      "link": "https://www.google.com/search?sca_esv=b02fb6a0238aa473&q=metallica+one&stick=H4sIAAAAAAAAAONgFuLQz9U3MClKLlLi1U_XNzRMSas0MCi0LNAS9C0tzkx2LCrJLC4JyQ_Oz0tfxMqbm1qSmJOTmZyokJ-XCgAS6henPgAAAA&sa=X&ved=2ahUKEwjMtYjGnoONAxVcBNsEHcxFHqwQri56BAgmEBY",
+      "image": "data:image/jpeg;base64,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"
+    },
+    {
+      "name": "Fade to Black",
+      "extensions": [
+        "Ride the Lightning",
+        "1984"
+      ],
+      "link": "https://www.google.com/search?sca_esv=b02fb6a0238aa473&q=metallica+fade+to+black&stick=H4sIAAAAAAAAAONgFuLQz9U3MClKLlLi0U_XNyw0zTIry8ip0hL0LS3OTHYsKsksLgnJD87PS1_EKp6bWpKYk5OZnKiQlpiSqlCSr5CUk5icDQAU8i-KRwAAAA&sa=X&ved=2ahUKEwjMtYjGnoONAxVcBNsEHcxFHqwQri56BAgmEBo",
+      "image": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkGBwgHBgkIBwgKCgkLDRYPDQwMDRsUFRAWIB0iIiAdHx8kKDQsJCYxJx8fLT0tMTU3Ojo6Iys/RD84QzQ5OjcBCgoKDQwNGg8PGjclHyU3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3N//AABEIAEUAXAMBIgACEQEDEQH/xAAcAAEAAgMBAQEAAAAAAAAAAAAABQYDBAcBAgj/xAA2EAABAwMCBAMGAgsAAAAAAAABAAIDBAUREiEGEzFBUWFxByIjMqHwkbEUFRYzQkNicoGS0f/EABkBAQADAQEAAAAAAAAAAAAAAAABAgMEBf/EAB4RAQEAAQQDAQAAAAAAAAAAAAABAgMREiExUWEi/9oADAMBAAIRAxEAPwDhqIiAiKVsFgr7/WNpbdA6WR3YffRPKLdkUi6jP7GriKESUtwppqtrsS04cBp9HHY/4WjH7IeJXHBhiJPQCZmfzU8ajnHPEXUqH2O3AtlfdJ2UkbGatWoSE+GA3dVji7gW58NRCom0zUhdpE0ZyM+fh6FONOUVRERQsIiICIiDLS08tVURwQNLpJHBrQF+ivZ5wqzha3kSxNkuc8fxg537lhHy/wBx++64ZwZfGcO8Q0tylgE7IidTT59x5hdbPGkDqE/s4yoMs51GoqzktJ8B3P8AUfottPGZS+2Oplccp10uF0npbYeVcq6OF7QMcyXUXNB2eAA53TrnAyCo2Him0MLjFeWkuP8AC52BsQf5fmufVtZrqHuqnOmk3YTId/r47/itB9PTfEnpYuXkDmNH5/f1XVNLZhvbbu6m+/22q3iutLlrdLS8vIB20kgMAOnC3aygbcbO6314iqLfOzPMa732EbBw7bEHw2I81xxrx+jEMA91+SfHKm7HxNW26NsQIlpW/PDKSQPMdwfRVy0vS/eP1S+N+DqzhisIkAfSv3imHyvHbCqy6V7QOLbfWWY2iihqHcyQSg1DgRB5Mx4/YC5quTOSZbRvp23HewREVFxERB6OqtXDjK4mEy1HIgi3YwDd3qqopay10NC8SPfJrB6Y2C00rJl2rlN5svV3bHrkBbzXFwOvA6eOe/VbFjmEFFVFsMT3OAaDIAQPxUO+5fptExzNJa9uC/O+V7ZpIaaPlVT5ngfK4Px3zg+S7+XpzXC8e3lwErABGwZLtRGMbFa0JkPOZI046MI7jqpm/wA1FNXOfQPPKIAHMwDsPLZQkkzWjJcAB3yos+tdO7xAXmKMhk7fhyHZ8RO/qolSt9lArnaQwOIBc5vXOB1UUvPzv6bCIiqCIiAtu1W+a63GnoKYsE1Q8MYXuw0E+JWovuKR8Tw+Nxa9pyCDghBbn8PXGz2s18NXST0ZjEx5bnEva7Og6S3Ye6evmFmq7DfKK1frGWpoJIOU2UaXO1kEE4xgbjCp76qaZxNTLNMHO1ODpCcnx37r6dUh4AkErw3oHSkgfT1VplZ4ovVPwxcpZmRy3O3xa+ZjfJyxxb0z3Az5d8bZ17pwPd3RyTNuFFNTMa54AfodgZxlp2BIHjtnchUsyxdqZn+zv+rE53vEsGjtgFLnlfNGSchzIiTl+CHHOe6woiqCIiAiIgIiICIiAiIgIiICIiD/2Q=="
+    },
+    {
+      "name": "The Unforgiven",
+      "extensions": [
+        "Metallica",
+        "1991"
+      ],
+      "link": "https://www.google.com/search?sca_esv=b02fb6a0238aa473&q=metallica+the+unforgiven&stick=H4sIAAAAAAAAAONgFuLQz9U3MClKLlLi1U_XNzTMME7KMjMpLtQS9C0tzkx2LCrJLC4JyQ_Oz0tfxCqRm1qSmJOTmZyoUJKRqlCal5ZflJ5ZlpoHAOxkAvdJAAAA&sa=X&ved=2ahUKEwjMtYjGnoONAxVcBNsEHcxFHqwQri56BAgmEB4",
+      "image": "data:image/jpeg;base64,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"
+    },
+    {
+      "name": "Seek and Destroy",
+      "extensions": [
+        "No Life 'Til Leather",
+        "1982"
+      ],
+      "link": "https://www.google.com/search?sca_esv=b02fb6a0238aa473&q=metallica+seek+and+destroy&stick=H4sIAAAAAAAAAONgFuLQz9U3MClKLlLi1U_XNzRMSauIryzJqNIS9C0tzkx2LCrJLC4JyQ_Oz0tfxCqVm1qSmJOTmZyoUJyamq2QmJeikJJaXFKUXwkAy4qAX0sAAAA&sa=X&ved=2ahUKEwjMtYjGnoONAxVcBNsEHcxFHqwQri56BAgmECI",
+      "image": "data:image/jpeg;base64,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"
+    },
+    {
+      "name": "Sad But True",
+      "extensions": [
+        "Metallica",
+        "1991"
+      ],
+      "link": "https://www.google.com/search?sca_esv=b02fb6a0238aa473&q=metallica+sad+but+true&stick=H4sIAAAAAAAAAONgFuLQz9U3MClKLlLi1U_XNzRMSas0sMxNLtAS9C0tzkx2LCrJLC4JyQ_Oz0tfxCqWm1qSmJOTmZyoUJyYopBUWqJQUlSaCgCTurxWRwAAAA&sa=X&ved=2ahUKEwjMtYjGnoONAxVcBNsEHcxFHqwQri56BAgmECY",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRC5Vb04qeLEZazTZzw8V2-F9Nz4bcHgJvQdYp9&s=0"
+    },
+    {
+      "name": "Wherever I May Roam",
+      "extensions": [
+        "Metallica",
+        "1991"
+      ],
+      "link": "https://www.google.com/search?sca_esv=b02fb6a0238aa473&q=metallica+wherever+i+may+roam&stick=H4sIAAAAAAAAAONgFuLQz9U3MClKLlLi1U_XNzRMSauIL7dIM9YS9C0tzkx2LCrJLC4JyQ_Oz0tfxCqbm1qSmJOTmZyoUJ6RWpRallqkkKmQm1ipUJSfmAsA4neJsk4AAAA&sa=X&ved=2ahUKEwjMtYjGnoONAxVcBNsEHcxFHqwQri56BAgmECo",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQyFxQo-8ullCHfHV1go_XJQdpxekQ98lLXntPO&s=0"
+    },
+    {
+      "name": "Harvester of Sorrow",
+      "extensions": [
+        "...And Justice for All",
+        "1988"
+      ],
+      "link": "https://www.google.com/search?sca_esv=b02fb6a0238aa473&q=metallica+harvester+of+sorrow&stick=H4sIAAAAAAAAAONgFuLQz9U3MClKLlLi1U_XNzRMSauIL84pLNcS9C0tzkx2LCrJLC4JyQ_Oz0tfxCqbm1qSmJOTmZyokJFYVJZaXJJapJCfplCcX1SUXw4AG45El04AAAA&sa=X&ved=2ahUKEwjMtYjGnoONAxVcBNsEHcxFHqwQri56BAgmEC4",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS8QcVtpevM8uEcMEalDY8IyKjlspzFl52ahRae&s=0"
+    },
+    {
+      "name": "Fuel",
+      "extensions": [
+        "Reload",
+        "1997"
+      ],
+      "link": "https://www.google.com/search?sca_esv=b02fb6a0238aa473&q=metallica+fuel&stick=H4sIAAAAAAAAAONgFuLQz9U3MClKLlLi1U_XNzRMSas0MDQ1MNIS9C0tzkx2LCrJLC4JyQ_Oz0tfxMqXm1qSmJOTmZyokFaamgMAepAtKj8AAAA&sa=X&ved=2ahUKEwjMtYjGnoONAxVcBNsEHcxFHqwQri56BAgmEDI",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThTbDQ6WEK1GYVDcyeF5J5vZKHDxDpH7PPqxy4&s=0"
+    },
+    {
+      "name": "Orion",
+      "link": "https://www.google.com/search?sca_esv=b02fb6a0238aa473&q=metallica+orion&stick=H4sIAAAAAAAAAONgFuLQz9U3MClKLlLi1U_XNzTMMslJKy9IS9MS9C0tzkx2LCrJLC4JyQ_Oz0tfxMqfm1qSmJOTmZyokF-UmZ8HAAQry8BAAAAA&sa=X&ved=2ahUKEwjMtYjGnoONAxVcBNsEHcxFHqwQri56BAgmEDY",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_4iIv2CqrKPMVSmyFGu29BBqJuS4NeDaFiGtZ&s=0"
+    },
+    {
+      "name": "Whiskey in the Jar",
+      "extensions": [
+        "1998"
+      ],
+      "link": "https://www.google.com/search?sca_esv=b02fb6a0238aa473&q=metallica+whiskey+in+the+jar&stick=H4sIAAAAAAAAAONgFuLQz9U3MClKLlLi0U_XNyw2MC0wMq3M1RL0LS3OTHYsKsksLgnJD87PS1_EKpObWpKYk5OZnKhQnpFZnJ1aqZCZp1CSkaqQlVgEADtpynhMAAAA&sa=X&ved=2ahUKEwjMtYjGnoONAxVcBNsEHcxFHqwQri56BAgmEDo",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQybV9ypheYd8oOqGDCdpQ7Jklw0jeblU5LHdTc&s=0"
+    },
+    {
+      "name": "Battery",
+      "extensions": [
+        "Master of Puppets",
+        "1986"
+      ],
+      "link": "https://www.google.com/search?sca_esv=b02fb6a0238aa473&q=metallica+battery&stick=H4sIAAAAAAAAAONgFuLQz9U3MClKLlLi0U_XNyw0zTIqL4831hL0LS3OTHYsKsksLgnJD87PS1_EKpibWpKYk5OZnKiQlFhSklpUCQDOuHDQQQAAAA&sa=X&ved=2ahUKEwjMtYjGnoONAxVcBNsEHcxFHqwQri56BAgmED4",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRR2RX5Y2gdiK2B6F95o_AaOPSutbsG9O73qHxF&s=0"
+    },
+    {
+      "name": "Leper Messiah",
+      "extensions": [
+        "Master of Puppets",
+        "1986"
+      ],
+      "link": "https://www.google.com/search?sca_esv=b02fb6a0238aa473&q=metallica+leper+messiah&stick=H4sIAAAAAAAAAONgFuLQz9U3MClKLlLi0U_XNyw2MC3LSTLO0xL0LS3OTHYsKsksLgnJD87PS1_EKp6bWpKYk5OZnKiQk1qQWqSQm1pcnJmYAQCOnwRvRwAAAA&sa=X&ved=2ahUKEwjMtYjGnoONAxVcBNsEHcxFHqwQri56BAgmEEI",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS8s7y-GoZcRfUpyN0ETn6Z07lVLNsJquy8uQJf&s=0"
+    },
+    {
+      "name": "Kirk",
+      "extensions": [
+        "...And Justice for All",
+        "1988"
+      ],
+      "link": "https://www.google.com/search?sca_esv=b02fb6a0238aa473&q=metallica+kirk&stick=H4sIAAAAAAAAAONgFuLQz9U3MClKLlLi1U_XNzRMy6qyzDItMtES9C0tzkx2LCrJLC4JyQ_Oz0tfxMqXm1qSmJOTmZyokJ1ZlA0A6-EGYz8AAAA&sa=X&ved=2ahUKEwjMtYjGnoONAxVcBNsEHcxFHqwQri56BAgmEEY",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS1DCsta_J_ee54McLtv9GBNeooi-ljBqqW5-m2&s=0"
+    },
+    {
+      "name": "Turn the Page",
+      "extensions": [
+        "Garage Inc.",
+        "1998"
+      ],
+      "link": "https://www.google.com/search?sca_esv=b02fb6a0238aa473&q=metallica+turn+the+page&stick=H4sIAAAAAAAAAONgFuLQz9U3MClKLlLi0U_XNyw2MC0uSs9J0hL0LS3OTHYsKsksLgnJD87PS1_EKp6bWpKYk5OZnKhQUlqUp1CSkapQkJieCgC5zp7WRwAAAA&sa=X&ved=2ahUKEwjMtYjGnoONAxVcBNsEHcxFHqwQri56BAgmEEo",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSpoyoyNVbMUjEjlItcc3IO1trVKEsWKe54RQWI&s=0"
+    },
+    {
+      "name": "The Unforgiven II",
+      "extensions": [
+        "Reload",
+        "1997"
+      ],
+      "link": "https://www.google.com/search?sca_esv=b02fb6a0238aa473&q=metallica+the+unforgiven+ii&stick=H4sIAAAAAAAAAONgFuLQz9U3MClKLlLi1U_XNzRMMzIzSymKT9cS9C0tzkx2LCrJLC4JyQ_Oz0tfxCqdm1qSmJOTmZyoUJKRqlCal5ZflJ5ZlpqnkJkJALDCnxRMAAAA&sa=X&ved=2ahUKEwjMtYjGnoONAxVcBNsEHcxFHqwQri56BAgmEE4",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSq9sX_-RUUkzwPT8CNDLayge97EFKEoTs3OmIs&s=0"
+    },
+    {
+      "name": "Blackened",
+      "extensions": [
+        "...And Justice for All",
+        "1988"
+      ],
+      "link": "https://www.google.com/search?sca_esv=b02fb6a0238aa473&q=metallica+blackened&stick=H4sIAAAAAAAAAONgFuLQz9U3MClKLlLi1U_XNzTMMjTNMShMKdQS9C0tzkx2LCrJLC4JyQ_Oz0tfxCqcm1qSmJOTmZyokJSTmJydmpeaAgCZOh0CRAAAAA&sa=X&ved=2ahUKEwjMtYjGnoONAxVcBNsEHcxFHqwQri56BAgmEFI",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT3zRLkLLi_oQ5H_UdWrBkFR1rRSpljLt-Xrw4J&s=0"
+    },
+    {
+      "name": "Am I Evil?",
+      "extensions": [
+        "Garage Inc.",
+        "1998"
+      ],
+      "link": "https://www.google.com/search?sca_esv=b02fb6a0238aa473&q=metallica+am+i+evil%3F&stick=H4sIAAAAAAAAAONgFuLQz9U3MClKLlLi0U_XNyw0zTIvLsnK1hL0LS3OTHYsKsksLgnJD87PS1_EKpKbWpKYk5OZnKiQmKuQqZBalpljDwC2mGmcRAAAAA&sa=X&ved=2ahUKEwjMtYjGnoONAxVcBNsEHcxFHqwQri56BAgmEFY",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTCwbsn1Z2oG3aC-cYlYNLamUAnR6hEirBvVCJw&s=0"
+    },
+    {
+      "name": "Lux Æterna",
+      "extensions": [
+        "72 Seasons",
+        "2023"
+      ],
+      "link": "https://www.google.com/search?sca_esv=b02fb6a0238aa473&q=metallica+lux+%C3%A6terna&stick=H4sIAAAAAAAAAONgFuLQz9U3MClKLlLi1U_XNzQsTk43Kk4qNtES9C0tzkx2LCrJLC4JyQ_Oz0tfxCqam1qSmJOTmZyokFNaoXB4WUlqUV4iAFCJ3j1GAAAA&sa=X&ved=2ahUKEwjMtYjGnoONAxVcBNsEHcxFHqwQri56BAgmEFo",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQhHOuvxF1qMNFNEew2Qfh_TaIqfzaJ0t_eKn1&s=0"
+    },
+    {
+      "name": "All Within My Hands",
+      "extensions": [
+        "St. Anger",
+        "2003"
+      ],
+      "link": "https://www.google.com/search?sca_esv=b02fb6a0238aa473&q=metallica+all+within+my+hands&stick=H4sIAAAAAAAAAONgFuLQz9U3MClKLlLi0U_XNyw2MC0zMcpI0xL0LS3OTHYsKsksLgnJD87PS1_EKpubWpKYk5OZnKgApBTKM0syMvMUcisVMhLzUooBQ-XzME0AAAA&sa=X&ved=2ahUKEwjMtYjGnoONAxVcBNsEHcxFHqwQri56BAgmEF4",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRSqiuB3F_bacoeJZ_xKlzU8dQ8nZE2K1r74rK9&s=0"
+    },
+    {
+      "name": "The Memory Remains",
+      "extensions": [
+        "Reload",
+        "1997"
+      ],
+      "link": "https://www.google.com/search?sca_esv=b02fb6a0238aa473&q=metallica+the+memory+remains&stick=H4sIAAAAAAAAAONgFuLQz9U3MClKLlLi0U_XNyw2MC0wTYqv0hL0LS3OTHYsKsksLgnJD87PS1_EKpObWpKYk5OZnKhQkpGqkJuam19UqVCUmpuYmVcMAJtEVY9MAAAA&sa=X&ved=2ahUKEwjMtYjGnoONAxVcBNsEHcxFHqwQri56BAgmEGI",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQdc-IYLiMQH6jQQz9os5jRYV_-apDA-BwOzns2&s=0"
+    },
+    {
+      "name": "Guitar Solo [Remasterd]",
+      "extensions": [
+        "Live : Reunion Arena, Dallas, TX, 5 Feb 89",
+        "2017"
+      ],
+      "link": "https://www.google.com/search?sca_esv=b02fb6a0238aa473&q=metallica+guitar+solo+%5Bremasterd%5D&stick=H4sIAAAAAAAAAONgFuLQz9U3MClKLlLi1U_XNzRMMzI3MCsvy9AS9C0tzkx2LCrJLC4JyQ_Oz0tfxKqYm1qSmJOTmZyokF6aWZJYpFCcn5OvEF2UmptYXJJalBILAIcYwGxSAAAA&sa=X&ved=2ahUKEwjMtYjGnoONAxVcBNsEHcxFHqwQri56BAgmEGY"
+    },
+    {
+      "name": "Welcome Home [Late June 1985 Demo]",
+      "extensions": [
+        "Master of Puppets",
+        "1986"
+      ],
+      "link": "https://www.google.com/search?sca_esv=b02fb6a0238aa473&q=metallica+welcome+home+%5Blate+june+1985+demo%5D&stick=H4sIAAAAAAAAAONgFuLQz9U3MClKLlLi1U_XNzRMMzIzKS5MT9cS9C0tzkx2LCrJLC4JyQ_Oz0tfxKqTm1qSmJOTmZyoUJ6ak5yfm6qQASKicxJLUhWySvNSFQwtLUwVUlJz82MBbt769l0AAAA&sa=X&ved=2ahUKEwjMtYjGnoONAxVcBNsEHcxFHqwQri56BAgmEGg",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ5N94UsVT-d_FUvBgrm5kkWdCmLUJsS1TSE4lV&s=0"
+    },
+    {
+      "name": "Damage, Inc.",
+      "extensions": [
+        "Master of Puppets",
+        "1986"
+      ],
+      "link": "https://www.google.com/search?sca_esv=b02fb6a0238aa473&q=metallica+damage,+inc.&stick=H4sIAAAAAAAAAONgFuLQz9U3MClKLlLi1U_XNzRMMzIzKSszydES9C0tzkx2LCrJLC4JyQ_Oz0tfxCqWm1qSmJOTmZyokJKYm5ieqqOQmZesBwDNC33_RwAAAA&sa=X&ved=2ahUKEwjMtYjGnoONAxVcBNsEHcxFHqwQri56BAgmEGw",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGjhC7ddV_L0jBLsc4WLC5iLkeLLdxLIgLgOkdzw&s=0"
+    },
+    {
+      "name": "The Day That Never Comes",
+      "extensions": [
+        "Death Magnetic",
+        "2008"
+      ],
+      "link": "https://www.google.com/search?sca_esv=b02fb6a0238aa473&q=metallica+the+day+that+never+comes&stick=H4sIAAAAAAAAAONgFuLQz9U3MClKLlLi0U_XNyw0zUoyMC1I0RL0LS3OTHYsKsksLgnJD87PS1_EqpSbWpKYk5OZnKhQkpGqkJJYCaQTSxTyUstSixSS83NTiwHVv_Q1UgAAAA&sa=X&ved=2ahUKEwjMtYjGnoONAxVcBNsEHcxFHqwQri56BAgmEHA",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzHybOcvdB3FNzwXiYz4FHpguTOSigNObR6oen&s=0"
+    },
+    {
+      "name": "Shadows Follow",
+      "extensions": [
+        "72 Seasons",
+        "2023"
+      ],
+      "link": "https://www.google.com/search?sca_esv=b02fb6a0238aa473&q=metallica+shadows+follow&stick=H4sIAAAAAAAAAONgFuLQz9U3MClKLlLi1U_XNzTMNs4qMSpLT9YS9C0tzkx2LCrJLC4JyQ_Oz0tfxCqRm1qSmJOTmZyoUJyRmJJfXqyQlp-Tk18OAH3prVdJAAAA&sa=X&ved=2ahUKEwjMtYjGnoONAxVcBNsEHcxFHqwQri56BAgmEHQ",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTKxdNerNpHQYGu_ymE2ggXMoD-B-7q7cWgtXAk&s=0"
+    },
+    {
+      "name": "Motorbreath",
+      "link": "https://www.google.com/search?sca_esv=b02fb6a0238aa473&q=metallica+motorbreath&stick=H4sIAAAAAAAAAONgFuLQz9U3MClKLlLi0U_XNyw2MC0qzsrL0BL0LS3OTHYsKsksLgnJD87PS1_EKpqbWpKYk5OZnKiQm1-SX5RUlJpYkgEASZzr7EUAAAA&sa=X&ved=2ahUKEwjMtYjGnoONAxVcBNsEHcxFHqwQri56BAgmEHg",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSBpyyCjJWURiBg7uR9YuyVZNHb34mi5PY3u7bs&s=0"
+    },
+    {
+      "name": "Ride The Lightning",
+      "extensions": [
+        "Ride the Lightning",
+        "1984"
+      ],
+      "link": "https://www.google.com/search?sca_esv=b02fb6a0238aa473&q=metallica+ride+the+lightning&stick=H4sIAAAAAAAAAONgFuLQz9U3MClKLlLi1U_XNzRMSas0MExJztIS9C0tzkx2LCrJLC4JyQ_Oz0tfxCqTm1qSmJOTmZyoUJSZkqpQkpGqkJOZnlGSl5mXDgBiUc--TQAAAA&sa=X&ved=2ahUKEwjMtYjGnoONAxVcBNsEHcxFHqwQri56BAgmEHw",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-jIFFOmLEoThl6N4aTyI72VwJzo6NGxFzbGD_&s=0"
+    }
+  ]
+}

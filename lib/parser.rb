@@ -55,10 +55,6 @@ class Parser
       end
     end
 
-    File.open("./files/test.json", 'w') do |f|
-      f.write(JSON.pretty_generate({"a": main_elems}) + "\n")
-    end
-
     return main_elems
   end
 
@@ -110,7 +106,7 @@ class Parser
       main_dict[entity_type].append(elem_dict)
     end
 
-    File.open("#{doc_path[..-6]}.json", 'w') do |f|
+    File.open("./output/#{doc_path.match(/\b\/(.*?)\.html/)[1]}.json", 'w') do |f|
       f.write(JSON.pretty_generate(main_dict) + "\n")
     end
 
